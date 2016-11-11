@@ -14,7 +14,14 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
-
+.portfolio {
+  display: inline-block;}
+  .portfolio:hover{
+    opacity: 1;
+    outline-color: #159957;;
+    outline-style: solid;
+    outline-width: 4px;
+  }
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
